@@ -4,7 +4,7 @@
 | ---- | :--------------------------------------- | :--------: |
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/) |[C++](/Code/001.md) |
 | 002  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[C++](/Code/002.md) |
-| 003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   Medium   | [Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java) | [Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.py) |                    no                    | [C++](http://www.liuchuo.net/archives/1235) |
+| 003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](/Code/003.md) |
 | 005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](/Code/005.md) |
 | 006  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |    Easy    | [Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/006.%20ZigZag%20Conversion/Solution.java) | [Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/006.%20ZigZag%20Conversion/Solution.py) |                    no                    | [C++](http://www.liuchuo.net/archives/1134) |
 | 007  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  [C++](/Code/007.md) |
